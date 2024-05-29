@@ -17,7 +17,7 @@ import static org.junit.Assert.assertNotNull;
 public class OrderTest {
     private OrderSteps orderSteps;
     private Order order;
-    private int track;
+    private Integer track;
     private int statusCode;
 
     @Before

@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
 public class LoginCourierTest {
     private CourierSteps courierSteps;
     private Courier courier;
-    private int id;
+    private Integer id;
     private final static String ERROR_MESSAGE_404 = "Учетная запись не найдена";
     private final static String ERROR_MESSAGE_400 = "Недостаточно данных для входа";
 
